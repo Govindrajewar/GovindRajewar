@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Frontend Developer from Nanded,India 🇮🇳</h3>
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **React, Node, MondoDB**
 - 📫 Reach me at **abhirajewar87@gmail.com**
 - 👨‍💻 All of my projects are available at 
 
