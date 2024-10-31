@@ -1,9 +1,10 @@
 <h2 align="center">Hi 👋, I'm Govind Rajewar</h2>
 
-<h3 align="center">A passionate Frontend Developer from Nanded,India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer from India(🇮🇳)</h3>
 
-- 💬 Ask me about **React, Node, MondoDB**
+- 💬 Ask me about **MongoDB, ExpressJS, React, NodeJS**
 - 📫 Reach me at **abhirajewar87@gmail.com**
+- 👨‍💻 Visit my Portfolio - **https://govindrajewar.github.io/Portfolio/**
 - 👨‍💻 All of my projects are available at 
 
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=Govindrajewar&show_icons=true&hide=issues,stars,contribs alt=Govindrajewar /> </p>
